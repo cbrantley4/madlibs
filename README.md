@@ -1,0 +1,1 @@
+I am attempting to create a MadLibs-style project using JavaScript, HTML, and CSS. I found introductory paragraphs to Edgar Allen Poe's stories. I found these from The Edgar Allen Poe Society of Baltimore's Online page, https://www.eapoe.org/. 
